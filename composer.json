@@ -1,20 +1,23 @@
 {
-    "name": "menarasolutions/geographer-data",
+    "name": "alamellama/geographer-data",
     "type": "library",
     "description": "Basic data package for Geographer - countries and their subdivisions",
-    "keywords": ["geographer","geolocation","localization"],
-    "homepage": "https://github.com/MenaraSolutions/geographer-data",
+    "keywords": [
+        "geographer",
+        "geolocation",
+        "localization"
+    ],
+    "homepage": "https://github.com/ALameLlama/geographer",
     "license": "MIT",
     "authors": [
         {
-            "name": "Denis Mysenko",
-            "email": "denis@menara.com.au",
-            "homepage": "https://www.menara.com.au"
+            "name": "Nicholas Ciechanowski",
+            "email": "nicholasaciechanowski@gmail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "MenaraSolutions\\Geographer\\Helpers\\": "helpers/"
+            "ALameLlama\\Geographer\\Helpers\\": "helpers/"
         }
     }
 }

@@ -4,7 +4,7 @@
   "description": "Basic data package for Geographer - countries and their subdivisions",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MenaraSolutions/geographer-data.git"
+    "url": "git+https://github.com/alamellama/geographer-data.git"
   },
   "keywords": [
     "geolocation",
@@ -13,10 +13,10 @@
     "fips",
     "iso"
   ],
-  "author": "Denis Mysenko <denis@menara.com.au>",
+  "author": "Nicholas Ciechanowski <nicholasaciechanowski@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MenaraSolutions/geographer-data/issues"
+    "url": "https://github.com/ALameLlama/geographer-data/issues"
   },
-  "homepage": "https://github.com/MenaraSolutions/geographer-data#readme"
+  "homepage": "https://github.com/ALameLlama/geographer-data#readme"
 }

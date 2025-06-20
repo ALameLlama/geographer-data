@@ -1,10 +1,10 @@
 <?php
 
-namespace MenaraSolutions\Geographer\Helpers;
+namespace ALameLlama\Geographer\Helpers;
 
 /**
  * Class WhereAmI
- * @package MenaraSolutions\Geographer\Helpers
+ * @package ALameLlama\Geographer\Helpers
  */
 class WhereAmI
 {
